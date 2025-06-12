@@ -1,4 +1,4 @@
-# 🌍 QS World University Rankings 2025 Analysis
+# 🌍 QS World University Rankings 2025
 
 ![Task 34B Dashboard](https://github.com/user-attachments/assets/4c5f8b40-2ff3-48e7-96fd-cf1ee468dbc6)
 
